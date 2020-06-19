@@ -37,7 +37,7 @@ a:link, a:visited {
     background: #bcffcc;
   }
   100% {
-    background: white;
+    background: black;
   }
 }
 
